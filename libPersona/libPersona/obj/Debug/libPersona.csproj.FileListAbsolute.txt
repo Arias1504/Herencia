@@ -1,0 +1,17 @@
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\libPersona\libPersona\bin\Debug\libPersona.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\libPersona\libPersona\bin\Debug\libPersona.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\libPersona\libPersona\bin\Debug\libInstitucion.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\libPersona\libPersona\bin\Debug\libInstitucion.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\libPersona\libPersona\obj\Debug\libPersona.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\libPersona\libPersona\obj\Debug\libPersona.csproj.CopyComplete
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\libPersona\libPersona\obj\Debug\libPersona.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\libPersona\libPersona\obj\Debug\libPersona.pdb
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\libPersona\libPersona\bin\Debug\libPersona.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\libPersona\libPersona\bin\Debug\libPersona.pdb
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\libPersona\libPersona\bin\Debug\libInstitucion.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\libPersona\libPersona\bin\Debug\libInstitucion.pdb
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\libPersona\libPersona\obj\Debug\libPersona.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\libPersona\libPersona\obj\Debug\libPersona.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\libPersona\libPersona\obj\Debug\libPersona.csproj.CopyComplete
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\libPersona\libPersona\obj\Debug\libPersona.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\libPersona\libPersona\obj\Debug\libPersona.pdb

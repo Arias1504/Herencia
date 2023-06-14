@@ -1,0 +1,6 @@
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\libInstitucion\libInstitucion\bin\Debug\libInstitucion.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\libInstitucion\libInstitucion\bin\Debug\libInstitucion.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\libInstitucion\libInstitucion\obj\Debug\libInstitucion.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\libInstitucion\libInstitucion\obj\Debug\libInstitucion.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\libInstitucion\libInstitucion\obj\Debug\libInstitucion.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\libInstitucion\libInstitucion\obj\Debug\libInstitucion.pdb

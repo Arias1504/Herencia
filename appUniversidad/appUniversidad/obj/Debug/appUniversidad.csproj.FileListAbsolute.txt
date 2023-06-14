@@ -1,0 +1,126 @@
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\appUniversidad.dll.config
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\appUniversidad.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\appUniversidad.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csc.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csc.exe.config
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csc.rsp
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csi.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csi.exe.config
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csi.rsp
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.AppContext.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Console.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.IO.Compression.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Net.Http.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.ValueTuple.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\vbc.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\vbc.exe.config
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\vbc.rsp
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\VBCSCompiler.exe
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\libInstitucion.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\libPersona.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\libInstitucion.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\libPersona.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.csproj.CopyComplete
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.dll
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.pdb
+C:\Users\jefer\Desktop\ProgSw\01. TALLERES\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\appUniversidad.dll.config
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\appUniversidad.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\appUniversidad.pdb
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csc.exe
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csc.exe.config
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csc.rsp
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csi.exe
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csi.exe.config
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\csi.rsp
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.AppContext.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Console.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.IO.Compression.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Net.Http.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.ValueTuple.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\vbc.exe
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\vbc.exe.config
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\vbc.rsp
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\VBCSCompiler.exe
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\libInstitucion.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\libPersona.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\libInstitucion.pdb
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\libPersona.pdb
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.csproj.CopyComplete
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.dll
+C:\Users\jefer\Desktop\Repositorio\Taller_3\Punto_B\appUniversidad\appUniversidad\obj\Debug\appUniversidad.pdb
